@@ -42,5 +42,5 @@ Over the ten years from 2013 to 2022, San Antonio saw its highest total crime in
 With a Pearson correlation coefficient of -0.79 there is a negative correlation between population and the crime rate, however, the t test and p-value indicate a significant difference between the two. This leads me to believe that there are other significant factors impacting the crime rate other than the population. 
 Covid greatly impacted crime in San Antonio. The drop in crime in 2020 was most likely due to the lockdown, and the drastic spike in crime in 2022 is likely influenced by vaccines being widely available and restrictions being lifted. The t test and p-values for covid and non covid years are -4.82 and 0.0051 respectively, indicating statistical significance of the impact of covid on crime in San Antonio.
 
-## Authors and ackknowledgement
+## Authors and acknowledgement
   The contributors on this project were Blake Bartlett (Houston), Hannah McPherson (San Antonio), Thomas Tobolka (El Paso), Beatrik Arimbi (Austin), and Victor Doan (Dallas).
