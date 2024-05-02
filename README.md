@@ -16,19 +16,23 @@ A shared repo for first project
 
 ## Individual Cities 
 Austin
+
   Total population and crime rate experienced a decline in 2017. The population and crime rate climbs back up in 2018.
   When comparing the data from covid years (2012-2019) and after the covid years (2020 to 2022), T-stats of -1.78 and P-value 0.128 indicate that there is no significant difference between the means of the two groups being compared.
 As the trend of population continues to increase, we can assume that crime rate will continue to increase and law enforcement will require more funding.
 
 Dallas
+
 	 Dallas's population grew continuously from 2013 to 2022, with the exception of 2021. The crime rate (per 100,000) also declined during the same period, except in 2020 and 2022. Year by year, the population increase was significantly above the national growth rate. Regression analysis showed almost no correlation between changes in the crime rate and population, with an r-value of 0.031.
 When running the t-test on the two dataframes for the crime rate (per 100,000), the outcomes indicate that it is statistically significant enough to reject the null hypothesis with a confidence level of 95% or higher. This means that the crime rate during the COVID years (2020 and 2021) was lower than in non-COVID years
 
 El Paso
+
   El Paso’s crime data has exhibited multiple characteristics: that the total numbers of crime and crime rate have both experienced a decline from 2013-2022, and that the total population, total numbers of crime, and the crime rate all experienced an increase in 2022. 
   A T-test performed on the difference between years experiencing Covid (2020-2021)  vs. years not experiencing Covid (2013-2020: 2022) produced a p-value of 0.00120, indicating that there is statistically significant difference between the two sets of years. This could be attributed to the population influx spike as seen in the graph of “Total Number of Offenses Over Years, which is seen in 2022, as 2022 also exhibits an increase in both the total number of offenses per year and the crime rate percentage per year.
 
 Houston
+
 	Houston has seen a decline in criminal activity from years 2013-22, with spikes in 2019 and 2022. The population has increased at a positive rate throughout those 10 years, averaging much higher than the U.S. average of .3-.4%. The population change percentage and the crime rate change percentage have a correlation ‘r’ value is -0.477 which indicates a moderate negative relationship. After running a correlation t-test between covid years and non-covid years, there is significant evidence with a P-value of 0.0258 which leads to rejecting the null hypothesis that there was no correlation.
 
 San Antonio
