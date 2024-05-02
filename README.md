@@ -8,6 +8,7 @@ A shared repo for first project
 
 # Visuals
   Each jupyter notebook should contain roughly the same visuals. Below are some examples from the Houston branch that should give an idea of shared visualizations:
+  
 ![Screenshot 2024-05-01 185700](https://github.com/sunnimae/project-one/assets/162613584/6faaa715-6e89-467e-b27f-01456f2591c0)
 ![Screenshot 2024-05-01 185715](https://github.com/sunnimae/project-one/assets/162613584/b3ad530e-7fdd-4a4f-a464-78da2bbdd318)
 ![Screenshot 2024-05-01 185726](https://github.com/sunnimae/project-one/assets/162613584/70b45a99-3d7a-4a2e-873c-66347781e6a6)
